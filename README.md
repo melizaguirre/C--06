@@ -1,12 +1,14 @@
 # C--06
 
-•	📸 
+### ©️ Autor
 
-•	👩 Ana Melissa Cabrera Izaguirre
+-	📸 
 
-•	📧 cabreraizaguirre2002@gmail.com
+-	👩 Ana Melissa Cabrera Izaguirre
 
-•	🔗 https://github.com/melizaguirre
+-	📧 cabreraizaguirre2002@gmail.com
+
+-	🔗 https://github.com/melizaguirre
 
 
-- Hola
+
