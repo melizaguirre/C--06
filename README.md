@@ -35,9 +35,18 @@ Un programa de C++ diseñado para demostrar:
 
 ## 1. static_cast<type>(variable)
   
-  <img width="457" alt="code1" src="https://user-images.githubusercontent.com/92064578/187099062-a982ddee-9b99-41ec-8bb5-98b220ca32e5.png">
+  <img width="300" alt="code1" src="https://user-images.githubusercontent.com/92064578/187099062-a982ddee-9b99-41ec-8bb5-98b220ca32e5.png">
 
   <img width="457" alt="captura1" src="https://user-images.githubusercontent.com/92064578/187099005-b9ae4713-4049-453f-a88d-7384be8f5a77.png">
+  
+## 2. static_cast vs dynamic_cast 1/3
+  
+  <img width= "400" alt= "code2" src="https://user-images.githubusercontent.com/92064578/187099481-4f1ecfa5-dfd0-4c98-b2e7-415a59f6144b.png"
+       
+  
+  <img width= "400" alt= "captura2" src="https://user-images.githubusercontent.com/92064578/187099509-3633f51a-a896-45aa-a7d8-deb377f49499.png">
+
+
 
 
 
