@@ -33,4 +33,6 @@ Un programa de C++ diseñado para demostrar:
   - Imágenes (Extensión **Polacode de VSC8**)
   - Formato, Diagrama y Emojis (**Markdown** en **VSC**)
 
+## 1. static_cast<type>(variable)
+
 
