@@ -14,6 +14,20 @@
 
 <img width = "300" alt="c++" src="https://user-images.githubusercontent.com/92064578/187088639-dc2af225-6dc1-43d1-bd45-54d0569dd7fa.png">
 
+Un programa de C++ diseñado para demostrar:
 
+🔩 La diferencia en el uso de:
+static_cast (comentar linea de #define dynamic)
+dynamic_cast (habilitado por omisión)
+📚 La utilización de:
+.hpp (declaración)
+.cpp (implementación)
+🔍 La optimización de:
+#include (mínimo requerido)
+using namespace std (solo cuando se necesita)
+📂La organización de:
+Código (Visual Studio Code y Repositorio en Github)
+Imágenes (Extensión Polacode de VSC)
+Formato, Diagrama y Emojis (Markdown en VSC)
 
 
