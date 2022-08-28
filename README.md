@@ -34,5 +34,12 @@ Un programa de C++ diseñado para demostrar:
   - Formato, Diagrama y Emojis (**Markdown** en **VSC**)
 
 ## 1. static_cast<type>(variable)
+  
+  <img width="457" alt="code1" src="https://user-images.githubusercontent.com/92064578/187099062-a982ddee-9b99-41ec-8bb5-98b220ca32e5.png>
+
+  
+  <img width="4https://user-images.githubusercontent.com/92064578/187099025-0709095a-1961-48a1-a686-f6624614c025.png)
+  <img width="457" alt="captura1" src="https://user-images.githubusercontent.com/92064578/187099005-b9ae4713-4049-453f-a88d-7384be8f5a77.png">
+
 
 
