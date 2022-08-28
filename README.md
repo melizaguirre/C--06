@@ -17,8 +17,8 @@
 Un programa de C++ diseñado para demostrar:
 
 1. 🔩 La diferencia en el uso de:
--  *static_cast* (comentar linea de #define dynamic)
--  *dynamic_cast* (habilitado por omisión)
+-  **static_cast** (comentar linea de #define dynamic)
+-  **dynamic_cast** (habilitado por omisión)
 
 2. 📚 La utilización de:
   - .hpp (declaración)
@@ -29,8 +29,8 @@ Un programa de C++ diseñado para demostrar:
   - using namespace std (solo cuando se necesita)
 
 4. 📂La organización de:
-  - Código (*Visual Studio Code* y Repositorio en Github)
-  - Imágenes (Extensión *Polacode de VSC8*)
-  - Formato, Diagrama y Emojis (*Markdown* en *VSC*)
+  - Código (**Visual Studio Code** y Repositorio en **Github**)
+  - Imágenes (Extensión **Polacode de VSC8**)
+  - Formato, Diagrama y Emojis (**Markdown** en **VSC**)
 
 
