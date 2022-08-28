@@ -16,18 +16,21 @@
 
 Un programa de C++ diseñado para demostrar:
 
-🔩 La diferencia en el uso de:
-static_cast (comentar linea de #define dynamic)
-dynamic_cast (habilitado por omisión)
-📚 La utilización de:
-.hpp (declaración)
-.cpp (implementación)
-🔍 La optimización de:
-#include (mínimo requerido)
-using namespace std (solo cuando se necesita)
-📂La organización de:
-Código (Visual Studio Code y Repositorio en Github)
-Imágenes (Extensión Polacode de VSC)
-Formato, Diagrama y Emojis (Markdown en VSC)
+1. 🔩 La diferencia en el uso de:
+- static_cast (comentar linea de #define dynamic)
+- dynamic_cast (habilitado por omisión)
+
+2. 📚 La utilización de:
+- .hpp (declaración)
+- .cpp (implementación)
+
+3. 🔍 La optimización de:
+- #include (mínimo requerido)
+- using namespace std (solo cuando se necesita)
+
+4. 📂La organización de:
+- Código (Visual Studio Code y Repositorio en Github)
+- Imágenes (Extensión Polacode de VSC)
+- Formato, Diagrama y Emojis (Markdown en VSC)
 
 
