@@ -35,9 +35,9 @@ Un programa de C++ diseñado para demostrar:
 
 ## 1. static_cast<type>(variable)
   
-  <img width="300" alt="code1" src="https://user-images.githubusercontent.com/92064578/187099062-a982ddee-9b99-41ec-8bb5-98b220ca32e5.png">
+  <img width="400" alt="code1" src="https://user-images.githubusercontent.com/92064578/187099062-a982ddee-9b99-41ec-8bb5-98b220ca32e5.png">
 
-  <img width="457" alt="captura1" src="https://user-images.githubusercontent.com/92064578/187099005-b9ae4713-4049-453f-a88d-7384be8f5a77.png">
+  <img width="400" alt="captura1" src="https://user-images.githubusercontent.com/92064578/187099005-b9ae4713-4049-453f-a88d-7384be8f5a77.png">
   
 ## 2. static_cast vs dynamic_cast 1/3
   
@@ -45,6 +45,23 @@ Un programa de C++ diseñado para demostrar:
        
   
   <img width= "400" alt= "captura2" src="https://user-images.githubusercontent.com/92064578/187099509-3633f51a-a896-45aa-a7d8-deb377f49499.png">
+
+## 3. static_cast vs dynamic_cast 2/3
+  
+  <img width= "400" alt = "code3" src="https://user-images.githubusercontent.com/92064578/187099705-1e8eb21c-dc63-421c-8070-e8cb9b0aa1fa.png">
+  
+  <img width= "400" alt = "captura3" src="https://user-images.githubusercontent.com/92064578/187099732-2f99656a-d0e6-4a74-abb9-7793c7eb5868.png">
+  
+## 4. static_cast vs dynamic_cast 3/3
+  
+  <img width= "400" alt = "code4" src="https://user-images.githubusercontent.com/92064578/187099753-14ac2b69-a98c-4b20-b930-9f5a98a4e0e2.png">
+  
+  <img width= "400" alt = "captura4" src="https://user-images.githubusercontent.com/92064578/187099779-2f0448d2-8e70-4636-af3c-11a58a49971a.png">
+
+  
+
+
+
 
 
 
