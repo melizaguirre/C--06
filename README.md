@@ -41,7 +41,7 @@ Un programa de C++ diseñado para demostrar:
   
 ## 2. static_cast vs dynamic_cast 1/3
   
-  <img width= "400" alt= "code2" src="https://user-images.githubusercontent.com/92064578/187099481-4f1ecfa5-dfd0-4c98-b2e7-415a59f6144b.png"
+  <img width= "400" alt= "code2" src="https://user-images.githubusercontent.com/92064578/187099481-4f1ecfa5-dfd0-4c98-b2e7-415a59f6144b.png">
        
   
   <img width= "400" alt= "captura2" src="https://user-images.githubusercontent.com/92064578/187099509-3633f51a-a896-45aa-a7d8-deb377f49499.png">
