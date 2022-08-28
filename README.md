@@ -57,6 +57,41 @@ Un programa de C++ diseñado para demostrar:
   <img width= "400" alt = "code4" src="https://user-images.githubusercontent.com/92064578/187099753-14ac2b69-a98c-4b20-b930-9f5a98a4e0e2.png">
   
   <img width= "400" alt = "captura4" src="https://user-images.githubusercontent.com/92064578/187099779-2f0448d2-8e70-4636-af3c-11a58a49971a.png">
+  
+## 5. Funciones Virtuales
+  
+  <img width= "400" alt = "code5" src="https://user-images.githubusercontent.com/92064578/187099842-3b6f5e0e-a6c1-4807-adc3-c0aebd0558f4.png">
+  
+  <img width= "400" alt = "captura5" src="https://user-images.githubusercontent.com/92064578/187099852-0bfb1545-8802-4f21-af9f-9dfe4f288c51.png">
+
+  
+## 6. typeid
+  
+  <img width= "400" alt = "code6" src="https://user-images.githubusercontent.com/92064578/187099902-9dbedfc5-3f79-4fa7-ba28-6884250f4aea.png">
+  
+  <img width= "400" alt = "captura6" src="<https://user-images.githubusercontent.com/92064578/187099919-95368b96-aacf-4bf3-ab87-1049ecfc2d01.png">
+  
+  
+## 7.
+  
+  <img width= "400" alt = "code7" src="https://user-images.githubusercontent.com/92064578/187099957-ac3b3a01-dbf2-4347-9554-42cd4dccf08f.png">
+  
+   <img width= "400" alt = "captura7" src="https://user-images.githubusercontent.com/92064578/187099973-1646a260-7c67-4cb7-8b6b-25cff9ff7619.png">
+  
+  
+## 8. 
+  
+  
+  <imgwidth= "400" alt = "code8" src="https://user-images.githubusercontent.com/92064578/187100004-44f4274e-20e1-471e-b70e-7f980f6dead4.png">
+  
+  <img width="454" alt="captura8" src="https://user-images.githubusercontent.com/92064578/187100019-2c602b13-7969-4f5e-82f6-bf04b4b24c24.png">
+
+  
+
+
+  
+
+
 
   
 
