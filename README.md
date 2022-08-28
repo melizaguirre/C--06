@@ -69,7 +69,8 @@ Un programa de C++ diseñado para demostrar:
   
   <img width= "400" alt = "code6" src="https://user-images.githubusercontent.com/92064578/187099902-9dbedfc5-3f79-4fa7-ba28-6884250f4aea.png">
   
-  <img width= "400" alt = "captura6" src="<https://user-images.githubusercontent.com/92064578/187099919-95368b96-aacf-4bf3-ab87-1049ecfc2d01.png">
+ <img width="459" alt="captura6" src="https://user-images.githubusercontent.com/92064578/187100069-da65e3b7-1e94-47bb-83a8-512ef5c4639e.png">
+
   
   
 ## 7.
@@ -82,7 +83,7 @@ Un programa de C++ diseñado para demostrar:
 ## 8. 
   
   
-  <imgwidth= "400" alt = "code8" src="https://user-images.githubusercontent.com/92064578/187100004-44f4274e-20e1-471e-b70e-7f980f6dead4.png">
+  <img width= "400" alt = "code8" src="https://user-images.githubusercontent.com/92064578/187100004-44f4274e-20e1-471e-b70e-7f980f6dead4.png">
   
   <img width="454" alt="captura8" src="https://user-images.githubusercontent.com/92064578/187100019-2c602b13-7969-4f5e-82f6-bf04b4b24c24.png">
 
