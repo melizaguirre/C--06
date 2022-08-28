@@ -12,7 +12,7 @@
 
 ### 🎯 Objetivos
 
-<img width = "300" alt="c++" src="https://user-images.githubusercontent.com/92064578/187088579-23cd8912-d550-4fe1-a8c7-71c09d11ce88.jpg">
+<img width = "300" alt="c++" src="https://user-images.githubusercontent.com/92064578/187088639-dc2af225-6dc1-43d1-bd45-54d0569dd7fa.png">
 
 
 
