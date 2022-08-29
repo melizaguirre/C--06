@@ -17,8 +17,8 @@
 Un programa de C++ diseñado para demostrar:
 
 1. 🔩 La diferencia en el uso de:
-  -  **static_cast** (comentar linea de #define dynamic)
-  -  **dynamic_cast** (habilitado por omisión)
+  --  **static_cast** (comentar linea de #define dynamic)
+  --  **dynamic_cast** (habilitado por omisión)
 
 2. 📚 La utilización de:
   - .hpp (declaración)
