@@ -1,6 +1,6 @@
 # C--06
 
-## :copyrigth: Autor
+## :copyright: Autor
 
 -	:camera: <img width="150" alt="foro" src="https://user-images.githubusercontent.com/92064578/187088393-fc86dcc7-7b1c-48c5-b097-95e4c6f22ba4.png">
   
@@ -20,15 +20,15 @@ Un programa de C++ diseñado para demostrar:
   -  **static_cast** (comentar linea de #define dynamic)
   -  **dynamic_cast** (habilitado por omisión)
 
-2. 📚 La utilización de:
+2. :books: La utilización de:
   - .hpp (declaración)
   - .cpp (implementación)
 
-3. 🔍 La optimización de:
+3. :mag_right: La optimización de:
   - #include (mínimo requerido)
   - using namespace std (solo cuando se necesita)
 
-4. 📂La organización de:
+4. :file_folder: La organización de:
   - Código (**Visual Studio Code** y Repositorio en **Github**)
   - Imágenes (Extensión **Polacode de VSC8**)
   - Formato, Diagrama y Emojis (**Markdown** en **VSC**)
